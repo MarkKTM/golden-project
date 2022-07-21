@@ -17,4 +17,4 @@ Using VS Code:
 1. I would start working on the JavaScript so when someone clicks a category button at the top, the coresponding elements below would be hidden. The button would change color to red signifying that it is hidden.
 2. I need to add the rest of the category buttons at the top.
 3. I need to add the the remaining category content below.
-4. At a larger screen width, I think we could have two columns as the paragraphs are too wide for easy ready.
+4. At a larger screen width, I think we could have two columns as the paragraphs are too wide for easy reading.
